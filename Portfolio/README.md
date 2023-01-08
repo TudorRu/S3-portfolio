@@ -1,9 +1,9 @@
 <h1 align="center">Individual and Group Projects</h1>
-<h3>Table of content</h3>
+<h4>Table of content</h4>
 
 
 <h2 align="center">Catering application</h2>
-<h3>Project description</h3>
+<h4>Project description</h4>
 <p>
 For the group project, our team has chosen to go with developing a solution for 'Info Support’ - a large company, developing mostly in the Artificial Intelligence (AI), Information Technology (IT) and Software areas.
 They require a software solution for their new restaurant, which will be opening at the begging of 2023, that will ease the workflow of the employees
