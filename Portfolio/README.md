@@ -54,7 +54,7 @@ Guests should be able to order without interacting with a waiter in any way and 
 <h3>Database design diagram</h3>
 <hr>
 Database picture
-<h3>Technologies>
+<h3>Technologies</h3>
 <hr>
 <h4>Front-end</h4>
 <p>
@@ -69,10 +69,10 @@ comparison, I can say that Nuxt.js trully makes your life easier and it's easier
 For the back-end we decided to go with .Net Core 6 because we are already familier with C# language from previous study year.
 .NET (pronounced as "dot net"; previously named .NET Core) is a free and open-source, managed computer software framework for Windows, Linux, and macOS operating systems.[3] It is a cross-platform successor to .NET Framework. The project is primarily developed by Microsoft employees by way of the .NET Foundation, and released under the MIT License. 
 </p>
-	<h3>Quality Assurance></h3>
-	<hr>
+<h3>Quality Assurance</h3>
+<hr>
 <p>
-	For the moment we didn't formulate a test plan nor made any tests for our application. The ideal way of working in my opinion is in TDD(test driven development where you first create the test, which will fail, and then implement the method that make the test to pass. This will make the refactoring and maintanance of the application a lot easier. 
+For the moment we didn't formulate a test plan nor made any tests for our application. The ideal way of working in my opinion is in TDD(test driven development where you first create the test, which will fail, and then implement the method that make the test to pass. This will make the refactoring and maintanance of the application a lot easier. 
 </p>
   
   
