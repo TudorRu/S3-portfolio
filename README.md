@@ -26,7 +26,6 @@
   <li>Cultural differences</li>
   <li>Ethics</li>
 </ul>
-<h2>Learning Outcomes</h2>
 <h3>6. Requirements and design - You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques.</h3>
 <ul>
   <li>User stories</li>
