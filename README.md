@@ -1,1 +1,1 @@
-<h1 allign="center">Semester 3 portfolio</h1>
+<h1 align="center">Semester 3 portfolio</h1>
