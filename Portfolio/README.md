@@ -131,8 +131,47 @@ so that I have full control of who’s going to join as an administrator.</h4>
 <h4>US-21 - As an administrator I want to have a list with all the user accounts and their status so I can have a better overview over them.</h4>
 <h4>US-22 - As an administrator I want to search for accounts in the list based on their username to be more efficient at my job.</h4>
 <h4>US-23 - As an administrator I want to be able to delete users’ skill offers, so that I can remove the inappropriate ones.</h4>
+<h3>C4 model</h3>
+<hr>
+<h4>C1</h4>
+<h4>C2</h4>
+<h3>Technology></h3>
+<h4>Front-end</h4>
+<p>
+In order to develope the front-end of my web application, I have went on and chose Vue.js. This decision was made because, having none to little experience with front-end, it was the same framework that we used for our group project, and I imagined that it was a good decision because if I were to get stuck at one point, I could always turn to the group project for inspiration.
+Vue.js features an incrementally adaptable architecture that focuses on declarative rendering and component composition. The core library is focused on the view layer only. Advanced features required for complex applications such as routing, state management and build tooling are offered via officially maintained supporting libraries and packages.
+Vue.js allows for extending HTML with HTML attributes called directives.[13] The directives offer functionality to HTML applications, and come as either built-in or user defined directives.
+Along with Vue.js, I also decided to use bootstrap in order to create my components as it will lower the time spent on manually designing all the elements of the componenets.
+</p
+<h4>Back-end</h4>
+<p>
+As well as with the group project, the best option for me was to use C# as the language for my back-end due to the fact that I am most familiar with it and it will take me less time to develop the application, unlike if I would have chosen Java.
+.Net Core framework is rising in popularity and it has a big community which is willing to help and there a lot of tutorials online which can help me in writing the application with ease.
+</p>
+<h4>Structure</h4>
+<p>At this moment the back-end solution is made out of 2 projects, first one that contains the actual api, logic and connection to the database and the second one that holds the tests. After discussing with Jean-Paul, I am planning to split the first project into multiple ones as it is best practice and it will take advantage of C# language true power in bringing multiple projects into 1 solution. It will be split into 3 separate projects: Business layer, Data Access Layer and Data Transfer Object layer.
+</p>
+<h4>Data persistance</h4>
+<p>
+For database I am using Azure MYSQL database, and in order to create my tables in the database and seed them I make use of Entity Framework Core that will greatly cut the coding time and will help me save and fetch data from my database.
+</p>
+<h3>Quality Assurance</h3>
+<p>
+Quality assurance is the term used in both manufacturing and service industries to describe the systematic efforts taken to ensure that the product delivered to customer meet with the contractual and other agreed upon performance, design, reliability, and maintainability expectations of that customer.
+</p>
+<h4>Testing</h4>
+As of now, if have decided to make unit test for my controller classes which are responsible with retrieving data from my database and issuing responses based on the results.As you can see in the below picture my current code covarage is 9.5% on 147 lines of code and I'm planning to bring that up to above 80%, and to achieve that procentage I will also need to implement integration tests to ensure that the connection to the database is up and running.
+  
+In order to improve user exprience, I have decided to create a survey and hand it out to friends and family. This is to help me improve my website's UI and to get another opinion on how the website should look like and elements of the website find confusing or should be changed.
+  
+To improve my code quality, I am using SonarCloud, which is going to run after a push to the dev branch is made so that I can anylize and after, refactor the code so the final push to the main branch can be made. This will generate a report on which I can check my code covarage, duplicate code and also a security review that is responsible with showing me any exposed credentials and ways to solve these issues.
+
+<h3>Continuous Integration and Continuous Deployment</h3>  
 
   
+
+
+
   
   
   
