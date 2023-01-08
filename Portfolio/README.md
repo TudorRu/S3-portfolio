@@ -94,9 +94,26 @@ Finally when guests want to pay, they will simply do it by paying within the app
 <h2 align="center">SkillRent</h2>
 <h3>Project description</h3>
 <p>
-For the individual project I have decided to develop a application which will allow users to sell their knowledge and skills and provide their expertise. A user can be either one that provides services or one that buys services. The buyer is able to chose from a large variety of categories and from the best suited provider.
+For the individual project I have decided to develop a application which will allow users to sell their knowledge and skills and provide their expertise. A user can be either one that provides services or one that buys services. The buyer is able to chose from a large variety of categories and from the best suited provider. Other similar websites are Fiverr, Toptal, Upwork, Upteam and many more.
 </p> 
-  
+<h3>User stories</h3>
+<hr>
+<h4>US-1 - As a waiter I want to start a new session, so that the clients can start ordering<h4>
+<h4>US-2 - As a waiter, I want to be able to view if an order is ready, so I can serve the guests.</h4>
+<h4>US-3 - As a waiter, I want to view the status of the tables, so that I can assign new clients to the right table.</h4>
+<h4>US-4 - As a guest, I want to view the menu to decide what to order</h4>
+<h4>US-5 - As a guest, I want to add/remove items from my order so I can prepare my order.</h4>
+<h4>US-6 - As a guest, I want to see the items listed in my order, so I can make my final decision.</h4>
+<h4>US-7 - As a guest, I want to make an order so I can eat.</h4>
+<h4>US-8 - As a guest, I want to see what I have ordered during my session, in case I want to repeat the order.</h4>
+<h4>US-9 - As a guest, I want to view my order to know the state is in.</h4>
+<h4>US-10 - As a cook, I want to select the item in the order to prepare, so that I am the only one that works on it.</h4>
+<h4>US-11 - As a cook, I want to be able to move an item to ready, so that it can be delivered to the guests.</h4>
+<h4>US-12 - As a bartender, I want to select the item in the order to prepare, so that I am the only one that works on it.</h4>
+<h4>US-13 - As a bartender, I want to be able to move an item to ready, so that it can be delivered to the guests.</h4>
+<h4>US-14 - As a manager, I want to view the statistics of the restaurants, to see where we may improve our services.</h4>
+<h4>US-15 - As a manager, I want to export the statistics to view them outside of the application so I can manipulate them in any way.</h4>
+<h4>US-16 - As a manager, I want to add tables to the restaurant, so that I can expand the seating arrangements.</h4>
   
   
   
