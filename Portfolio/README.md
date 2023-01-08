@@ -98,22 +98,40 @@ For the individual project I have decided to develop a application which will al
 </p> 
 <h3>User stories</h3>
 <hr>
-<h4>US-1 - As a waiter I want to start a new session, so that the clients can start ordering<h4>
-<h4>US-2 - As a waiter, I want to be able to view if an order is ready, so I can serve the guests.</h4>
-<h4>US-3 - As a waiter, I want to view the status of the tables, so that I can assign new clients to the right table.</h4>
-<h4>US-4 - As a guest, I want to view the menu to decide what to order</h4>
-<h4>US-5 - As a guest, I want to add/remove items from my order so I can prepare my order.</h4>
-<h4>US-6 - As a guest, I want to see the items listed in my order, so I can make my final decision.</h4>
-<h4>US-7 - As a guest, I want to make an order so I can eat.</h4>
-<h4>US-8 - As a guest, I want to see what I have ordered during my session, in case I want to repeat the order.</h4>
-<h4>US-9 - As a guest, I want to view my order to know the state is in.</h4>
-<h4>US-10 - As a cook, I want to select the item in the order to prepare, so that I am the only one that works on it.</h4>
-<h4>US-11 - As a cook, I want to be able to move an item to ready, so that it can be delivered to the guests.</h4>
-<h4>US-12 - As a bartender, I want to select the item in the order to prepare, so that I am the only one that works on it.</h4>
-<h4>US-13 - As a bartender, I want to be able to move an item to ready, so that it can be delivered to the guests.</h4>
-<h4>US-14 - As a manager, I want to view the statistics of the restaurants, to see where we may improve our services.</h4>
-<h4>US-15 - As a manager, I want to export the statistics to view them outside of the application so I can manipulate them in any way.</h4>
-<h4>US-16 - As a manager, I want to add tables to the restaurant, so that I can expand the seating arrangements.</h4>
+<h4>User</h4>
+<h4>US-1 - As a user I want to create an account so that I can fully take advantage of the website’s features.<h4>
+<h4>US-2 - As a user I want to log in to my account so that I securely access the website’s features.</h4>
+<h4>US-3 - As a user I want to log out of my account so that no one else can access it.</h4>
+<h4>US-4 - As a user I want to edit my account so in case of a misspell happens or if my
+details change.</h4>
+<h4>US-5 - As a user I want to delete my account in case I don’t want to use the
+platform anymore.</h4>
+<h4>US-6 - As a user I want to be able browse the offered services list so that I can
+chose one that fits my needs.</h4>
+<h4>US-7 - As a user I want to be able to filter by categories the offered services list so
+that I can quickly find one that fits my needs.</h4>
+<h4>US-8 - As a user I want to be able to sort the list by price, high to low and low to
+high, so that I can better find the one that fits by budget.</h4>
+<h4>US-9 - As a user I want to hire someone so that he can do a job for me.</h4>
+<h4>US-10 - As a user I want to be able to chat with the person I hired so that I can
+communicate to him the details.</h4>
+<h4>US-11 - As a user I want to be able to rate the person who did a job for me so that
+other users can make an idea of the quality of services that he provides.</h4>
+<h4>US-12 - As a user, I want to be able to post my skill offer, so that other users can hire me to do a job for them.</h4>
+<h4>US-13 - As a user, I want to be able to edit my skill offer, so that I can change the details.</h4>
+<h4>US-14 - As a user, I want to be able to remove my skill offer, so that it is not posted on the website.</h4>
+<h4>Administrator</h4>
+<h4>US-15 - As an administrator I want to log in my account with username and password to have minimum security level.</h4>
+<h4>US-16 - As an administrator I want to log off from my account so that it is not used by someone else.</h4>
+<h4>US-17 - As an administrator I want to be able to issue bans, in case users don’t comply to website terms and conditions.</h4>
+<h4>US-18 - As an administrator I want to be able to issue unbans, in case users have proven that were banned for no reason.</h4>
+<h4>US-19 - As an administrator I want to search for accounts in the list based on their username to be more efficient at my job.</h4>
+<h4>US-20 - As an administrator I want to be able to create new administrator accounts
+so that I have full control of who’s going to join as an administrator.</h4>
+<h4>US-21 - As an administrator I want to have a list with all the user accounts and their status so I can have a better overview over them.</h4>
+<h4>US-22 - As an administrator I want to search for accounts in the list based on their username to be more efficient at my job.</h4>
+<h4>US-23 - As an administrator I want to be able to delete users’ skill offers, so that I can remove the inappropriate ones.</h4>
+
   
   
   
