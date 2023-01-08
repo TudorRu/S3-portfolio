@@ -74,6 +74,10 @@ For the back-end we decided to go with .Net Core 6 because we are already famili
 <p>
 For the moment we didn't formulate a test plan nor made any tests for our application. The ideal way of working in my opinion is in TDD(test driven development where you first create the test, which will fail, and then implement the method that make the test to pass. This will make the refactoring and maintanance of the application a lot easier. 
 </p>
+<h4>UI</h4>
+<p>
+  To make sure that the application we envisoned matches with the expectation of our clients we have created wireframes and prototypes of all the views of the application and we have presented them to our clients in our first 2 sprints. Based on their feedback we have tweeked the wireframes once again in order to get their approval for the final version of the application.
+</p>
   
   
   
