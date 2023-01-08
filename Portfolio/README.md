@@ -11,7 +11,8 @@ and make it more comfortable for their clients to order, pay and overall to impr
 This will increase the number of clients, reduce the number of misunderstood orders and make the process faster and thus enabling more orders to be made.
 Guests should be able to order without interacting with a waiter in any way and also view the status of their orders in real time as they are being prepared.
 </p>
-<h3>Requirements></h3>
+<h3>Requirements</h3>
+<hr>
   <h4>FR-01 - The waiter should be able to view the available tables</h4>
   <h4>FR-02 - The waiter must be able to start a new session when seating guests<h4>
   <h4>FR-03 - The waiter must be able to view when an order is ready to be delivered</h4>
@@ -28,6 +29,7 @@ Guests should be able to order without interacting with a waiter in any way and 
   <h4>FR-14 - The manager should be able to export the statistics outside the application</h4>
   <h4>FR-15 - The manager should be able to add new table to the application</h4>
 <h3>User stories></h3>
+<hr>
   <h4>As a waiter I want to start a new session, so that the clients can start ordering<h4>
   <h4>As a waiter, I want to be able to view if an order is ready, so I can serve the guests.</h4>
   <h4>As a waiter, I want to view the status of the tables, so that I can assign new clients to the right table.</h4>
