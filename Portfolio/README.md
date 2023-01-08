@@ -1,4 +1,4 @@
-<h1 align="center">Individual and Group Projects</h1>
+<h1 align="center">Individual and Group Project</h1>
 <h3>Table of content</h3>
 
 
@@ -76,10 +76,26 @@ For the moment we didn't formulate a test plan nor made any tests for our applic
 </p>
 <h4>UI</h4>
 <p>
-  To make sure that the application we envisoned matches with the expectation of our clients we have created wireframes and prototypes of all the views of the application and we have presented them to our clients in our first 2 sprints. Based on their feedback we have tweeked the wireframes once again in order to get their approval for the final version of the application.
+To make sure that the application we envisoned matches with the expectation of our clients we have created wireframes and prototypes of all the views of the application and we have presented them to our clients in our first 2 sprints. Based on their feedback we have tweeked the wireframes once again in order to get their approval for the final version of the application.
 </p>
+<h3>Business Process</h3>
+<hr>
+<p>
+  In order to showcase how the application will impact the business, I have created 2 business processes diagrams.
   
+  Picture Without application
   
+  Picture with application
+  
+  After analyzing the diagrams, we can conclude that a bottleneck can form when multiple tables want to order at the same time because one waiter will be assigned on a number of tables at the same time. This will ease the customer's ability to order and will speed up the whole process, improving the quality of service. Another issue that the application solves is the communication in kitchen and at the bar as well as between the waiters with kitchen and bar. When the products are ready to be delivered, the waiter will be notified automatically that the order is ready to be delivered.
+Also, if the guests want to order again, they don't have to call the waiter and issue the order, they can simply open a new order and launch it with ease.
+Finally when guests want to pay, they will simply do it by paying within the application, remove extra steps from the process.
+</p>
+<h2 align="center">SkillRent</h2>
+<h3>Project description</h3>
+<p>
+For the individual project I have decided to develop a application which will allow users to sell their knowledge and skills and provide their expertise. A user can be either one that provides services or one that buys services. The buyer is able to chose from a large variety of categories and from the best suited provider.
+</p> 
   
   
   
