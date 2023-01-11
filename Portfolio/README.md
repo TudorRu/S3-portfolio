@@ -156,7 +156,7 @@ As well as with the group project, the best option for me was to use C# as the l
 </p>
 <h4>Data persistance</h4>
 <p>
-For database I am using Azure MYSQL database, and in order to create my tables in the database and seed them I make use of Entity Framework Core that will greatly cut the coding time and will help me save and fetch data from my database.
+For database I am using Azure MYSQL database, and in order to create my tables in the database and seed them I make use of Entity Framework Core that will greatly cut the coding time and will help me save, edit, delete and fetch data from my database.
 </p>
 </div>
 <div id="qualityAssurance">
