@@ -185,7 +185,7 @@ Below you can see an example of such a report.
 
 Picture with report
 
-
+<div id="Pipeline">
 <h3>Continuous Integration and Continuous Deployment</h3>  
 <hr>
 <p>
@@ -251,9 +251,12 @@ This task with publish the generated code coverage results to Azure DevOps using
   
 
 pic with yaml task 
-  
+
+<p>
 The above job will build my front-end application and deploy it using Azure Static Web Apps.
 The webiste is live right now on https://thankful-plant-0513f9a03.2.azurestaticapps.net.
+</p>
+</div>
   
   
   
