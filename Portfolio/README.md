@@ -179,11 +179,9 @@ I implement unit tests.
 </p>
 
   
-![Sonarcloud-before](https://github.com/TudorRu/S3-portfolio/tree/main/Images/Sonarcloud-before.png)
+<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
 
-<div>
-<img src="https://github.com/TudorRu/S3-portfolio/blob/bad8ad26556d86c76c56283c7b9da0e3e780ba2f/Images/sonarcloud-after.png" width="500" height="400">
-  </div>
+<img src="https://github.com/TudorRu/S3-portfolio/blob/bad8ad26556d86c76c56283c7b9da0e3e780ba2f/Images/sonarcloud-after.png" width="800" height="400">
 
 <h5>Front-end</h5>
 <p>
