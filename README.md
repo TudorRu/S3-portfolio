@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my Semester 3 Portfolio <br><br>Tudor Rusu </h1>
 <ul>
-  <li>Portfolion</li>
+  <li>Portfolio</li>
   <li>Research documents</li>
 </ul>
 <h2>Learning Outcomes</h2>
