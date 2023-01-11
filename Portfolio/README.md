@@ -135,7 +135,7 @@ so that I have full control of who’s going to join as an administrator.</h4>
 <hr>
 <h4>C1</h4>
 <h4>C2</h4>
-<h3>Technology></h3>
+<h3>Technology</h3>
 <h4>Front-end</h4>
 <p>
 In order to develope the front-end of my web application, I have went on and chose Vue.js. This decision was made because, having none to little experience with front-end, it was the same framework that we used for our group project, and I imagined that it was a good decision because if I were to get stuck at one point, I could always turn to the group project for inspiration.
@@ -162,14 +162,30 @@ Quality assurance is the term used in both manufacturing and service industries 
 <h4>Testing</h4>
 <h5>Back-end</h5>
 <p>
-As of now, if have decided to make unit test for my controller classes which are responsible with retrieving data from my database and issuing responses based on the results.As you can see in the below picture my current code covarage is 9.5% on 147 lines of code and I'm planning to bring that up to above 80%, and to achieve that procentage I will also need to implement integration tests to ensure that the connection to the database is up and running.
-  
-To improve my code quality, I am using SonarCloud, which is going to run after a push to the dev branch is made so that I can anylize and after, refactor the code so the final push to the main branch can be made. This will generate a report on which I can check my code covarage, duplicate code and also a security review that is responsible with showing me any exposed credentials and ways to solve these issues.
+As of now, if have decided to make unit test for my controller classes which are responsible with retrieving data from my database and issuing responses based on the results.As you can see in the below picture my current code covarage is 9.5% on 147 lines of code and I'm planning to bring that up to above 40%, and to achieve that procentage I will also need to implement integration tests to ensure my controller classes can interact with my database and make the correct calls from it, without losing or changing pieces of data. However for this I will need to setup a proper test environment which will be done later in the development. 
 </p>
+
+<h5>SonarCloud</h5>
+
+<p>In order to improve my code quality, I chose to use SonarCloud. This tool will scan my code after every push to the dev branch and will generate a report which will be published on the SonarCloud website. This will allow me to analyze and take in consideration which code needs to be refactored and reviewed before pushing to the main branch.Some of the features of this tools are code covarage, telling me how much of the actual code has been tested, duplicate code which will be responsible with showing me which code is repeated and how can it be refactored in such way that 0 duplication score will show and last, security review, where it will point out any exposed credentials.
+
+Below, there are 2 screenshots, first one is an example of report of my code without tests and in the second one, you can see my code covarage going up as my
+I implement unit tests.
+</p>
+
+Picture without tests
+
+Picture with tests
+
 <h5>Front-end</h5>
 <p>
-In order to improve user exprience, I have decided to create a survey and hand it out to friends and family. This is to help me improve my website's UI and to get another opinion on how the website should look like and elements of the website find confusing or should be changed.
+To test that my front-end application is working properly, I've decided to implement unit tests where I check if my routes are working properly and also that my components are generating the correct elements.
+In order to achieve this, I've opted for Jest which is a popular JavaScript testing framework. A pipeline will run after a push to the dev branch will be made, which is going to run all the tests run the coverage and publish the code coverage results to Azure DevOps Pipeline.
+
+Below you can see an example of such a report.
 </p>
+
+Picture with report
 
 
 <h3>Continuous Integration and Continuous Deployment</h3>  
