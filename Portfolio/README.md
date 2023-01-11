@@ -178,7 +178,7 @@ Below, there are 2 screenshots, first one is an example of report of my code wit
 I implement unit tests.
 </p>
 
-<img src="https://github.com/TudorRu/S3-portfolio/tree/main/Images/Sonarcloud-before.png">
+<img src="https://github.com/TudorRu/S3-portfolio/tree/main/Images/Sonarcloud-before.png" width="100", height="100">
 
 
 <img src="https://github.com/TudorRu/S3-portfolio/tree/main/Images/sonarcloud-after.png">
