@@ -180,7 +180,7 @@ I implement unit tests.
 
 ![Sonarcloud-before](https://github.com/TudorRu/S3-portfolio/tree/main/Images/Sonarcloud-before.png)
 
-<img src="https://github.com/TudorRu/S3-portfolio/tree/main/Images/sonarcloud-after.png">
+<img src="https://github.com/TudorRu/S3-portfolio/tree/main/Images/sonarcloud-after.png?raw" width="100" height="100">
 
 <h5>Front-end</h5>
 <p>
