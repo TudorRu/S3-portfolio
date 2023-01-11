@@ -145,7 +145,7 @@ In order to develope the front-end of my web application, I have went on and cho
 Vue.js features an incrementally adaptable architecture that focuses on declarative rendering and component composition. The core library is focused on the view layer only. Advanced features required for complex applications such as routing, state management and build tooling are offered via officially maintained supporting libraries and packages.
 Vue.js allows for extending HTML with HTML attributes called directives.[13] The directives offer functionality to HTML applications, and come as either built-in or user defined directives.
 Along with Vue.js, I also decided to use bootstrap in order to create my components as it will lower the time spent on manually designing all the elements of the componenets.
-</p
+</p>
 <h4>Back-end</h4>
 <p>
 As well as with the group project, the best option for me was to use C# as the language for my back-end due to the fact that I am most familiar with it and it will take me less time to develop the application, unlike if I would have chosen Java.
