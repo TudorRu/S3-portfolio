@@ -189,7 +189,7 @@ Picture with report
 <h3>Continuous Integration and Continuous Deployment</h3>  
 <hr>
 <p>
-In order to automate testing and deployment of my back-end and front-end application, four pipelines have been created using Azure Pipelines, two for each application.
+In order to automate testing and deployment of my back-end and front-end application, four pipelines have been created using Azure Pipelines, two for each repository.
 Specific pipelines are triggered when ever pushes are being made either to dev or main branches. When a push to dev branch is being made, the tests will run and in case one or more will fail, the whole pipeline will fail, notifying the developer that push to main cannot be made.
 In case the application is ready for release, a push to main will be made, which will trigger the building and deploying pipeline.
 
