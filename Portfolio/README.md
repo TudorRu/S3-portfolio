@@ -155,6 +155,7 @@ As well as with the group project, the best option for me was to use C# as the l
 <p>
 For database I am using Azure MYSQL database, and in order to create my tables in the database and seed them I make use of Entity Framework Core that will greatly cut the coding time and will help me save and fetch data from my database.
 </p>
+<div id="qualityAssurance">
 <h3>Quality Assurance</h3>
 <p>
 Quality assurance is the term used in both manufacturing and service industries to describe the systematic efforts taken to ensure that the product delivered to customer meet with the contractual and other agreed upon performance, design, reliability, and maintainability expectations of that customer.
@@ -165,7 +166,8 @@ Quality assurance is the term used in both manufacturing and service industries 
 As of now, if have decided to make unit test for my controller classes which are responsible with retrieving data from my database and issuing responses based on the results.As you can see in the below picture my current code covarage is 9.5% on 147 lines of code and I'm planning to bring that up to above 40%, and to achieve that procentage I will also need to implement integration tests to ensure my controller classes can interact with my database and make the correct calls from it, without losing or changing pieces of data. However for this I will need to setup a proper test environment which will be done later in the development. 
 </p>
 
-<p>In order to improve my code quality, I chose to use SonarCloud. This tool will scan my code after every push to the dev branch and will generate a report which will be published on the SonarCloud website. This will allow me to analyze and take in consideration which code needs to be refactored and reviewed before pushing to the main branch.Some of the features of this tools are code covarage, telling me how much of the actual code has been tested, duplicate code which will be responsible with showing me which code is repeated and how can it be refactored in such way that 0 duplication score will show and last, security review, where it will point out any exposed credentials.
+<p>
+In order to improve my code quality, I chose to use SonarCloud. This tool will scan my code after every push to the dev branch and will generate a report which will be published on the SonarCloud website. This will allow me to analyze and take in consideration which code needs to be refactored and reviewed before pushing to the main branch.Some of the features of this tools are code covarage, telling me how much of the actual code has been tested, duplicate code which will be responsible with showing me which code is repeated and how can it be refactored in such way that 0 duplication score will show and last, security review, where it will point out any exposed credentials.
 
 Below, there are 2 screenshots, first one is an example of report of my code without tests and in the second one, you can see my code covarage going up as my
 I implement unit tests.
@@ -184,7 +186,8 @@ Below you can see an example of such a report.
 </p>
 
 Picture with report
-
+</div>
+  
 <div id="Pipeline">
 <h3>Continuous Integration and Continuous Deployment</h3>  
 <hr>
