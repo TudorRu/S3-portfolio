@@ -19,7 +19,7 @@
 </ul>
 <h3>4. CI/CD - You implement a (semi)automated software release process that matches the needs of the project context.</h3>
 <ul>
-  <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md #Pipeline">Pipelines</li>
+  <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#Pipeline">Pipelines</li>
 </ul>
 <h3>5. Cultural differences and ethics - You recognize and take into account cultural differences when working with multi-site teams, and are aware of ethical aspects in software development.</h3>
 <ul>
