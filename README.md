@@ -11,7 +11,7 @@
 </ul>
 <h3>2. Software quality - You use software tooling and methodology that continuously monitors and improve the software quality during software development.</h3>
 <ul>
-  <li>Tooling and methodology</li>
+  <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#qualityAssurance">Tooling and methodology</li>
 </ul>
 <h3>3. Agile method - You can implement the software process for your project according to a given agile software development method.</h3>
 <ul>
