@@ -165,8 +165,6 @@ Quality assurance is the term used in both manufacturing and service industries 
 As of now, if have decided to make unit test for my controller classes which are responsible with retrieving data from my database and issuing responses based on the results.As you can see in the below picture my current code covarage is 9.5% on 147 lines of code and I'm planning to bring that up to above 40%, and to achieve that procentage I will also need to implement integration tests to ensure my controller classes can interact with my database and make the correct calls from it, without losing or changing pieces of data. However for this I will need to setup a proper test environment which will be done later in the development. 
 </p>
 
-<h5>SonarCloud</h5>
-
 <p>In order to improve my code quality, I chose to use SonarCloud. This tool will scan my code after every push to the dev branch and will generate a report which will be published on the SonarCloud website. This will allow me to analyze and take in consideration which code needs to be refactored and reviewed before pushing to the main branch.Some of the features of this tools are code covarage, telling me how much of the actual code has been tested, duplicate code which will be responsible with showing me which code is repeated and how can it be refactored in such way that 0 duplication score will show and last, security review, where it will point out any exposed credentials.
 
 Below, there are 2 screenshots, first one is an example of report of my code without tests and in the second one, you can see my code covarage going up as my
