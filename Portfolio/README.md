@@ -160,13 +160,18 @@ For database I am using Azure MYSQL database, and in order to create my tables i
 Quality assurance is the term used in both manufacturing and service industries to describe the systematic efforts taken to ensure that the product delivered to customer meet with the contractual and other agreed upon performance, design, reliability, and maintainability expectations of that customer.
 </p>
 <h4>Testing</h4>
+<h5>Back-end</h5>
 <p>
 As of now, if have decided to make unit test for my controller classes which are responsible with retrieving data from my database and issuing responses based on the results.As you can see in the below picture my current code covarage is 9.5% on 147 lines of code and I'm planning to bring that up to above 80%, and to achieve that procentage I will also need to implement integration tests to ensure that the connection to the database is up and running.
   
-In order to improve user exprience, I have decided to create a survey and hand it out to friends and family. This is to help me improve my website's UI and to get another opinion on how the website should look like and elements of the website find confusing or should be changed.
-  
 To improve my code quality, I am using SonarCloud, which is going to run after a push to the dev branch is made so that I can anylize and after, refactor the code so the final push to the main branch can be made. This will generate a report on which I can check my code covarage, duplicate code and also a security review that is responsible with showing me any exposed credentials and ways to solve these issues.
 </p>
+<h5>Front-end</h5>
+<p>
+In order to improve user exprience, I have decided to create a survey and hand it out to friends and family. This is to help me improve my website's UI and to get another opinion on how the website should look like and elements of the website find confusing or should be changed.
+</p>
+
+
 <h3>Continuous Integration and Continuous Deployment</h3>  
 
   
