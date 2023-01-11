@@ -206,7 +206,7 @@ Picture of pipelines
 Picture with build stage
   
 <p>
-This stage will build my application, automatically detecting the build platform and configuration.
+This stage will test if my application will building without any errors with the correct build configuration.
 </p>
 
 <h5>Test Task</h5>
@@ -232,14 +232,28 @@ Picture with container deploy
 The AzureWebAppContainer@1 will  deploy the image to Azure App Container, which in reality is URL from which the api can be used from any computer or application with internet connection.(https://skillrent-api.azurewebsites.net)
 </p>
   
+<h4>Test pipeline for front-end</h4>
   
+Node install picture
+
+This task will install Node.js version 18 so that further steps can run.
+
+
+script picture
   
+The above script will install Node Package manager followed by running the unit tests and also generating the code coverage.
   
+task publish codecoverage results
+ 
+This task with publish the generated code coverage results to Azure DevOps using Cobertura tool.
   
+<h4>Build and deploy front-end</h4>
   
+
+pic with yaml task 
   
-  
-  
+The above job will build my front-end application and deploy it using Azure Static Web Apps.
+The webiste is live right now on https://thankful-plant-0513f9a03.2.azurestaticapps.net.
   
   
   
