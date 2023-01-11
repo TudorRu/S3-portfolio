@@ -189,13 +189,50 @@ Picture with report
 
 
 <h3>Continuous Integration and Continuous Deployment</h3>  
+<hr>
+<p>
+In order to automate testing and deployment of my back-end and front-end application, four pipelines have been created using Azure Pipelines, two for each application.
+Specific pipelines are triggered when ever pushes are being made either to dev or main branches. When a push to dev branch is being made, the tests will run and in case one or more will fail, the whole pipeline will fail, notifying the developer that push to main cannot be made.
+In case the application is ready for release, a push to main will be made, which will trigger the building and deploying pipeline.
+
+Below you can see a screenshot will the pipelines I have instated for both front-end and back-end.
+Further I will explore the yaml files for all the pipelines and explain them
+</p>
+  
+Picture of pipelines
+    
+<h4>Back-end</h4>
+<h4>Testing pipeline</h4>
+
+<h5>Build Task</h5>
+
+Picture with build stage
+  
+<p>
+This stage will build my application, automatically detecting the build platform and configuration.
+</p>
+
+<h5>Test Task</h5>
+
+Picture with test stage
+
+<p>In the above picture, you can observe that the pipeline will automatically detect the test project and will run all the tests found, and generating a code coverage
+report which can be analyzed in SonarCloud.
+</p>
+  
+<h4>Build and deploy pipeline</h4>
+
+Picture with building docker image
+
+<p>The Docker@2 task will build a Docker image and it is going to be pushed to Azure Container Registry.</p>
 
   
-
-
-
+Picture with container deploy
   
   
+<p>  
+The AzureWebAppContainer@1 will  deploy the image to Azure App Container, which in reality is URL from which the api can be used from any computer or application with internet connection.(https://skillrent-api.azurewebsites.net)
+</p>
   
   
   
