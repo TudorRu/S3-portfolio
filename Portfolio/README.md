@@ -217,16 +217,17 @@ Picture with test stage
 report which will be analyzed in SonarCloud.
 </p>
   
-<h4>Build docker and deploy pipeline</h4>
+<h4>Deploy pipeline for back-end</h4>
 
+<h5>Build docker image task</h5>
 Picture with building docker image
 
 <p>The Docker@2 task will build a Docker image and it is going to be pushed to Azure Container Registry.</p>
 
+<h5>Deploy API</h5>  
   
 Picture with container deploy
-  
-  
+   
 <p>  
 The AzureWebAppContainer@1 will  deploy the image to Azure App Container, which in reality is URL from which the api can be used from any computer or application with internet connection.(https://skillrent-api.azurewebsites.net)
 </p>
