@@ -135,7 +135,10 @@ so that I have full control of who’s going to join as an administrator.</h4>
 <hr>
 <h4>C1</h4>
 <h4>C2</h4>
+
+<div id="fullStack">
 <h3>Technology</h3>
+<hr>
 <h4>Front-end</h4>
 <p>
 In order to develope the front-end of my web application, I have went on and chose Vue.js. This decision was made because, having none to little experience with front-end, it was the same framework that we used for our group project, and I imagined that it was a good decision because if I were to get stuck at one point, I could always turn to the group project for inspiration.
@@ -155,8 +158,10 @@ As well as with the group project, the best option for me was to use C# as the l
 <p>
 For database I am using Azure MYSQL database, and in order to create my tables in the database and seed them I make use of Entity Framework Core that will greatly cut the coding time and will help me save and fetch data from my database.
 </p>
+</div>
 <div id="qualityAssurance">
 <h3>Quality Assurance</h3>
+<hr>
 <p>
 Quality assurance is the term used in both manufacturing and service industries to describe the systematic efforts taken to ensure that the product delivered to customer meet with the contractual and other agreed upon performance, design, reliability, and maintainability expectations of that customer.
 </p>
