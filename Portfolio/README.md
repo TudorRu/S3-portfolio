@@ -201,8 +201,7 @@ Further I will explore the yaml files for all the pipelines and explain them
   
 Picture of pipelines
     
-<h4>Back-end</h4>
-<h4>Testing pipeline</h4>
+<h4>Test pipeline for back-end</h4>
 
 <h5>Build Task</h5>
 
@@ -217,10 +216,10 @@ This stage will build my application, automatically detecting the build platform
 Picture with test stage
 
 <p>In the above picture, you can observe that the pipeline will automatically detect the test project and will run all the tests found, and generating a code coverage
-report which can be analyzed in SonarCloud.
+report which will be analyzed in SonarCloud.
 </p>
   
-<h4>Build and deploy pipeline</h4>
+<h4>Build docker and deploy pipeline</h4>
 
 Picture with building docker image
 
