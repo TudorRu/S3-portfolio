@@ -237,7 +237,7 @@ Below you can see a screenshot will the pipelines I have instated for both front
 Further I will explore the yaml files for all the pipelines and explain them
 </p>
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/pipelines.png" width="400" height="500">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/pipelines.png" width="700" height="500">
     
 <h4>Test pipeline for back-end</h4>
 
