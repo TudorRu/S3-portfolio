@@ -342,6 +342,10 @@ Although the Long-Term Orientation scores are high for both nationalities, I’v
 When it comes to Indulgence dimension, our cultures are more different, the Romanian one being of Restraint, where I have noticed that I have a tendency to cynicism and pessimism. In the Netherlands people tend to be enjoying life more and value their free time more. The Dutch optimism and the Romanian pessimism combination can be a beneficial both of them brining important insights to a certain situation and assessing it in a more real to the truth way. 
 </p>
   
+<p>
+  For this semester I've decided to fully research on this matter and a deep-dive into this subject can be found <a href="">here</a>
+</p>
+  
   
   
   
