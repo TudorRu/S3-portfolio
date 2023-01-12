@@ -173,7 +173,7 @@ When it comes to Indulgence dimension, our cultures are more different, the Roma
 Agile is a project management approach that emphasizes flexibility, collaboration, and rapid iteration. It is often used in software development to help teams deliver high-quality software quickly and efficiently.
 </p>
 
-<h4>Popular Agile frameworks></h4>
+<h4>Popular Agile frameworks</h4>
 
 <h5>Scrum</h5>
 
