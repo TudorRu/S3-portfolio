@@ -40,6 +40,6 @@
 </ul>
 <h3>8. Professional - You act in a professional manner during software development and learning</h3>
 <ul>
-  <li>Professional manner</li>
+  <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#PManner">Professional manner</li>
   <li>Professional manner in group project</li>
 </ul>
