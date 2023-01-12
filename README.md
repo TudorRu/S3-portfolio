@@ -30,9 +30,8 @@
 <ul>
   <li>User stories</li>
   <li>Stakeholder feedback</li>
-  <li>C4 diagram</li>
+  <li>C4 diagrams</li>
   <li>Unit testing</li>
-  <li>Integration testing</li>
 </ul>
 <h3>7. Business processes - You can explain simple business processes and relate them to the development of your software project.</h3>
 <ul>
