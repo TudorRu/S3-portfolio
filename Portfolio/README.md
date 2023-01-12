@@ -149,10 +149,15 @@ In this semester I had the opportunity to collaborate with individuals from The 
   
 <p>
 When comparing Power Distance dimension, The Romanian score is quite high compared to the Dutch one and this can be seen when discussing with teachers, myself having a more formal approach, accepting hierarchical order , while Jan and Arnold, being more independent and their attitude towards our teachers being more direct and informal.
+
 The difference in Individualism comparison is quite high, which may cause problems if not being taken into account, the Dutch placing more emphasis on their own well-being and interests while Romanians being more interested in how others are doing, taking responsibility for fellow members of their group.
+
 The Masculinity index both for Dutch and Romanian society are on the lower spectrum, considered to be a Feminine societies, where we value equality, solidarity and then to care for the quality in our working life. This may be a plus for us because we tend to solve conflicts by compromise and trying to understand each other’s needs.
+
 Both of our cultures have high Uncertainty Avoidance scores, however Romanians tend to be more strict and are intolerant of unorthodox behavior, having difficulties adapting to new situations. The Dutch although having a more pragmatic nature, they are flexible and are willing to change depending on the situation.
+
 Although the Long-Term Orientation scores are high for both nationalities, I’ve seen a difference in the way we plan and manage problem solving. In the Netherlands they tend to try solving the issue in a more direct way, focusing on the direct objective, rather than thinking of all the consequences and implications that may follow. Both of these means having their pros and cons, in my opinion we complement quite well, bringing balance to the team.
+
 When it comes to Indulgence dimension, our cultures are more different, the Romanian one being of Restraint, where I have noticed that I have a tendency to cynicism and pessimism. In the Netherlands people tend to be enjoying life more and value their free time more. The Dutch optimism and the Romanian pessimism combination can be a beneficial both of them brining important insights to a certain situation and assessing it in a more real to the truth way. 
 </p>
   
