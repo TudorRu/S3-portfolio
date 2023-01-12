@@ -28,10 +28,10 @@
 </ul>
 <h3>6. Requirements and design - You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques.</h3>
 <ul>
-  <li>User stories</li>
-  <li>Stakeholder feedback</li>
-  <li>C4 diagrams</li>
-  <li>Unit testing</li>
+  <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#UStories">User stories</li>
+  <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#FRequirements">Functional Requirements</li>
+  <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#C4">C4 diagrams</li>
+  <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#UTesting">Unit testing</li>
 </ul>
 <h3>7. Business processes - You can explain simple business processes and relate them to the development of your software project.</h3>
 <ul>
