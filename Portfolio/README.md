@@ -309,7 +309,9 @@ The above job will build my front-end application and deploy it using Azure Stat
 The webiste is live right now on https://thankful-plant-0513f9a03.2.azurestaticapps.net.
 </p>
 </div>
-  
+
+<h3>Cultural Awareness</h3>  
+<hr>
   
   
   
