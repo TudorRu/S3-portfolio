@@ -156,8 +156,13 @@ so that I have full control of who’s going to join as an administrator.</h4>
 <h3>C4 model</h3>
 <hr>
 <h4>C1</h4>
+
+<img src="https://github.com/TudorRu/S3-portfolio/blob/f769cc90a1b48f6cb76467a6c2448a6c179aa307/Images/C1-individual.png" width="800" height="500">
+
 <h4>C2</h4>
 
+<img src="https://github.com/TudorRu/S3-portfolio/blob/f769cc90a1b48f6cb76467a6c2448a6c179aa307/Images/C2-individual.png" width="800" height="650">
+  
 <div id="fullStack">
 <h3>Technology</h3>
 <hr>
