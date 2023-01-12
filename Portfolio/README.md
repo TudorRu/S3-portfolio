@@ -422,7 +422,7 @@ These conversations were followed by Jean-Paul opening a feed pulse checkpoint w
 An example of this can be seen in below screenshot.
 </p>
 
-<img src="https://github.com/TudorRu/S3-portfolio/blob/8736e17e99a8e0537933028274c799795a08f83e/Images/feedpulse.png" width="1000" height="500">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/8736e17e99a8e0537933028274c799795a08f83e/Images/feedpulse.png" width="1000" height="450">
   
   
   
