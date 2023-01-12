@@ -13,6 +13,7 @@ Guests should be able to order without interacting with a waiter in any way and 
 </p>
 <h3>Requirements</h3>
 <hr>
+<div id="FRequirements"
   <h4>FR-01 - The waiter should be able to view the available tables</h4>
   <h4>FR-02 - The waiter must be able to start a new session when seating guests<h4>
   <h4>FR-03 - The waiter must be able to view when an order is ready to be delivered</h4>
@@ -28,8 +29,10 @@ Guests should be able to order without interacting with a waiter in any way and 
   <h4>FR-13 - The manager should be able to view statistics of the restaurant</h4>
   <h4>FR-14 - The manager should be able to export the statistics outside the application</h4>
   <h4>FR-15 - The manager should be able to add new table to the application</h4>
+</div>
 <h3>User stories</h3>
 <hr>
+<div id="UStories"
   <h4>US-1 - As a waiter I want to start a new session, so that the clients can start ordering<h4>
   <h4>US-2 - As a waiter, I want to be able to view if an order is ready, so I can serve the guests.</h4>
   <h4>US-3 - As a waiter, I want to view the status of the tables, so that I can assign new clients to the right table.</h4>
@@ -46,8 +49,10 @@ Guests should be able to order without interacting with a waiter in any way and 
   <h4>US-14 - As a manager, I want to view the statistics of the restaurants, to see where we may improve our services.</h4>
   <h4>US-15 - As a manager, I want to export the statistics to view them outside of the application so I can manipulate them in any way.</h4>
   <h4>US-16 - As a manager, I want to add tables to the restaurant, so that I can expand the seating arrangements.</h4>
+</div>
 <h3>C4 model</h3>
 <hr>
+<div id="C4">
 <h4>C1</h4>
 
 <img src="https://github.com/TudorRu/S3-portfolio/blob/512ab53a6d982fc62688bef93d79e9576439bbc5/Images/C1-group.png" width="800" height="550">
@@ -71,12 +76,14 @@ When scoping into our high-level architecture, we can see that our application i
 <p>
 The goal of our class diagram is to think of every function of our application and think of how this will look in code. A customer can start a session, which consists of one or multiple orders. Every time a customer makes a new order, a new order is added to the session. An order consists of multiple menu items, which consist of multiple ingredients. The reason for having an ingredient class is to keep track of stock levels in real time to display in the application what dishes are available. At the end of a session a customer can pay, and the order is saved in the database.
 </p>
-    
+</div>
+
+<div id="Database"
 <h3>Database design diagram</h3>
 <hr>    
  
 <img src="https://github.com/TudorRu/S3-portfolio/blob/512ab53a6d982fc62688bef93d79e9576439bbc5/Images/Database-diagram.png" width="800" height="550">
-
+</div>
 <h3>Technologies</h3>
 <hr>
 <h4>Front-end</h4>
