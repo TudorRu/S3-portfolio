@@ -287,14 +287,14 @@ This task will install Node.js version 18 so that further steps can run.
 The above script will install Node Package manager followed by running the unit tests and also generating the code coverage.
 </p>  
 
-<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/test-publish-task.png" width="700" height="300">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/test-publish-task.png" width="1000" height="300">
 
 <p>
 This task with publish the generated code coverage results to Azure DevOps using Cobertura tool.
 </p>  
 <h4>Build and deploy front-end</h4>
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/deploy-frontend.png" width="600" height="500">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/deploy-frontend.png" width="1000" height="500">
 
 <p>
 The above job will build my front-end application and deploy it using Azure Static Web Apps./n
