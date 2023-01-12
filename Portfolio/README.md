@@ -73,11 +73,9 @@ The goal of our class diagram is to think of every function of our application a
 </p>
     
 <h3>Database design diagram</h3>
-    
+<hr>    
 <img src="https://github.com/TudorRu/S3-portfolio/blob/512ab53a6d982fc62688bef93d79e9576439bbc5/Images/Database-diagram.png" width="800" height="550">
 
-<hr>
-Database picture
 <h3>Technologies</h3>
 <hr>
 <h4>Front-end</h4>
