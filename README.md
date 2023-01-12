@@ -23,7 +23,7 @@
 </ul>
 <h3>5. Cultural differences and ethics - You recognize and take into account cultural differences when working with multi-site teams, and are aware of ethical aspects in software development.</h3>
 <ul>
-  <li>Cultural awareness</li>
+  <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#CAwareness">Cultural awareness</li>
   <li>Ethics</li>
 </ul>
 <h3>6. Requirements and design - You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques.</h3>
