@@ -15,7 +15,7 @@
 </ul>
 <h3>3. Agile method - You can implement the software process for your project according to a given agile software development method.</h3>
 <ul>
-  <li>Agile</li>
+  <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#Agile">Agile</li>
 </ul>
 <h3>4. CI/CD - You implement a (semi)automated software release process that matches the needs of the project context.</h3>
 <ul>
