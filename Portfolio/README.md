@@ -411,7 +411,18 @@ The webiste is live right now on https://thankful-plant-0513f9a03.2.azurestatica
 </p>
 </div>
 
+<h3>Professional manner</h3>
+<hr>
+
+<p>
   
+During this semester I had some conversations with Jean-Paul, however I only got the idea and the values of these only towards the end, where, after a gap of 1 month I finally met with him and he fully explained to me why in The Netherlands, admiting that getting stuck on something or not being able to make progress is not nothing to be ashed of and the faster that this is established the better.
+
+These conversations were followed by Jean-Paul opening a feed pulse checkpoint where I should make a brief summary of his feedback and what I should work on further.
+An example of this can be seen in below screenshot.
+</p>
+
+<img src="https://github.com/TudorRu/S3-portfolio/blob/8736e17e99a8e0537933028274c799795a08f83e/Images/feedpulse.png" width="1000" height="500">
   
   
   
