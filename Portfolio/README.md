@@ -55,7 +55,7 @@ Guests should be able to order without interacting with a waiter in any way and 
 <div id="C4">
 <h4>C1</h4>
 
-<img src="https://github.com/TudorRu/S3-portfolio/blob/512ab53a6d982fc62688bef93d79e9576439bbc5/Images/C1-group.png" width="800" height="550">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/512ab53a6d982fc62688bef93d79e9576439bbc5/Images/C1-group.png" width="800" height="600">
   
 <p>
 This is a model of our high-level architecture. We have 5 parties that will be making use of our application. We have the cook, and the bartender who look at open orders that are listed in our application and process them. The waiter assigns clients a seat and makes sure the orders are delivered. In addition to this they make sure a session is closed properly. The manager can see the data of all the past orders, as well as add more tables to the restaurant. The client is a customer of the restaurant. They place orders and get assigned a seat by a waiter. They can only modify their own order. 
@@ -64,7 +64,7 @@ In addition to this we also have an external payment system.
     
 <h4>C2</h4>
 
-<img src="https://github.com/TudorRu/S3-portfolio/blob/512ab53a6d982fc62688bef93d79e9576439bbc5/Images/C2-group.png" width="800" height="550">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/512ab53a6d982fc62688bef93d79e9576439bbc5/Images/C2-group.png" width="800" height="650">
  
 <p>
 When scoping into our high-level architecture, we can see that our application is split up into 3 parts. We will be having a front-end application written in Vue.js, a back-end application written in .NET and a MySQL database. The backend communicates with the front-end using web sockets, which means that the data in our front-end will be updated in real-time. The communication to our database will be done using an ORM, which ensures that we do not spend too much time writing SQL queries. 
