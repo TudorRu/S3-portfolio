@@ -213,7 +213,7 @@ The Agile tool that helped us develop our application is Azure Devops. In the se
 
 <h5>Sprint Board</h5>
 
-<img src="https://github.com/TudorRu/S3-portfolio/blob/2be4867579556d966a5d62c7eb4d0fa864ad33bf/Images/board.png" width="1100" height="650">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/2be4867579556d966a5d62c7eb4d0fa864ad33bf/Images/board.png" width="1100" height="550">
 
 
 <h5>Burned-down chart</h5>
