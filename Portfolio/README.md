@@ -123,6 +123,107 @@ To make sure that the application we envisoned matches with the expectation of o
 Also, if the guests want to order again, they don't have to call the waiter and issue the order, they can simply open a new order and launch it with ease.
 Finally when guests want to pay, they will simply do it by paying within the application, remove extra steps from the process.
 </p>
+
+<h3 id="CAwareness">Cultural Awareness</h3>  
+<hr>
+<h4>What is Cultural Awareness?</h4>
+<p>
+The definition of the word culture is a complex one and it refers to the characteristics and knowledge of a group of people, including social behaviors, norms, beliefs, arts, and customs.
+Culture helps distinguish one group of people from another as we are wired to attach different meanings and react to situations in different ways. This document is the product of my interest in on the subject of cultural awareness as it is an important subject in software engineering due to the fact that teams are comprised of members coming from different nationalities. The main goal is to understand the differences between my and my team-mates’ culture and how to better communicate and collaborate.
+</p>
+
+<h4>Why is it important</h4>
+<p>
+Having cultural awareness in a software development team can help to promote a more inclusive and respectful working environment, which can improve team dynamics and lead to more effective collaboration. It can also lead to more creative and innovative solutions, as different perspectives and experiences are brought to the table.
+</p>
+
+<h4>Cultural Awareness in group project</h4>
+
+<p>
+
+In this semester I had the opportunity to collaborate with individuals from The Netherlands and Bulgaria. In the below diagram, I have plotted the indexes for each country based on Hofstede’s 6 cultural dimensions. Because Romanian and Bulgarian cultures are alike, I have decided to focus on Romanian versus The Netherlands differences.
+
+</p>
+
+<img src="https://github.com/TudorRu/S3-portfolio/blob/0a7d1bf4238238a17ca18e3fd245ed4608116522/Images/hofstead.png" width="1100" height="650">
+  
+<p>
+When comparing Power Distance dimension, The Romanian score is quite high compared to the Dutch one and this can be seen when discussing with teachers, myself having a more formal approach, accepting hierarchical order , while Jan and Arnold, being more independent and their attitude towards our teachers being more direct and informal.
+The difference in Individualism comparison is quite high, which may cause problems if not being taken into account, the Dutch placing more emphasis on their own well-being and interests while Romanians being more interested in how others are doing, taking responsibility for fellow members of their group.
+The Masculinity index both for Dutch and Romanian society are on the lower spectrum, considered to be a Feminine societies, where we value equality, solidarity and then to care for the quality in our working life. This may be a plus for us because we tend to solve conflicts by compromise and trying to understand each other’s needs.
+Both of our cultures have high Uncertainty Avoidance scores, however Romanians tend to be more strict and are intolerant of unorthodox behavior, having difficulties adapting to new situations. The Dutch although having a more pragmatic nature, they are flexible and are willing to change depending on the situation.
+Although the Long-Term Orientation scores are high for both nationalities, I’ve seen a difference in the way we plan and manage problem solving. In the Netherlands they tend to try solving the issue in a more direct way, focusing on the direct objective, rather than thinking of all the consequences and implications that may follow. Both of these means having their pros and cons, in my opinion we complement quite well, bringing balance to the team.
+When it comes to Indulgence dimension, our cultures are more different, the Romanian one being of Restraint, where I have noticed that I have a tendency to cynicism and pessimism. In the Netherlands people tend to be enjoying life more and value their free time more. The Dutch optimism and the Romanian pessimism combination can be a beneficial both of them brining important insights to a certain situation and assessing it in a more real to the truth way. 
+</p>
+  
+<p>
+  For this semester I've decided to fully research on this matter and a deep-dive using DOT framework into this subject can be found <a href="https://github.com/TudorRu/S3-portfolio/blob/8b631f1f5427178031692091a8fd14238dad3cef/Research%20documents/Cultural%20awareness%20.docx">here</a>
+</p>
+
+<h3 id="Agile">Agile</h3>
+<hr>
+
+<h4>What is Agile?</h4>
+<p>
+Agile is a project management approach that emphasizes flexibility, collaboration, and rapid iteration. It is often used in software development to help teams deliver high-quality software quickly and efficiently.
+</p>
+
+<h4>Popular Agile frameworks></h4>
+
+<h5>Scrum</h5>
+
+<p>
+Scrum is an Agile framework for managing complex projects. It was originally developed for software development, but it has since been adopted in other fields as well.
+
+In Scrum, a project is divided into a series of short iterations called "sprints." Each sprint is typically a few weeks long and has a specific goal, such as completing a certain feature or fixing a set of bugs. At the beginning of each sprint, the team holds a planning meeting to determine which tasks will be completed during the sprint. The team then works on these tasks throughout the sprint, with the goal of completing as much work as possible.
+
+Scrum uses a number of roles to guide the work of the team. The "Scrum Master" is responsible for facilitating the process and helping the team to follow Scrum practices. The "Product Owner" is responsible for defining the features and requirements for the project. And the "Development Team" is responsible for completing the work and delivering value to the customer.
+
+One of the key principles of Scrum is transparency. The team is expected to be transparent about its work and progress, and to regularly review and assess its performance. This helps the team to identify problems and improve its process over time.
+</p>
+
+<h5>Lean</h5>
+
+<p>
+Lean is a project management approach that is based on the principles of lean manufacturing, which was developed by Toyota to optimize the manufacturing process and reduce waste. In software development, Lean is focused on maximizing value and minimizing waste by eliminating unnecessary activities and focusing on what is most important to the customer.
+
+One of the key tools that Lean teams use is the "Lean canvas", which is a visual representation of the key elements of a business model. The Lean canvas helps teams to identify the value they are delivering to customers, the activities that are necessary to deliver that value, and the resources that are required to support those activities. This helps teams to focus on what is most important and to eliminate unnecessary work.
+</p>
+
+<h5>Extreme Programming</h5>
+
+<p>
+Extreme Programming (XP) is a software development methodology that is designed to deliver high-quality software quickly and efficiently. It is based on a set of values and principles that emphasize collaboration, simplicity, and frequent delivery.
+
+One of the key benefits of Extreme Programming is that it helps teams to deliver working software quickly and to respond to changing customer needs. By emphasizing collaboration and frequent delivery, XP helps teams to stay focused on delivering value to customers and to minimize waste.
+
+</p>
+
+<h4>Agile in group project</h4>
+
+<p>
+
+For our group project, we used Scrum, where we devided project in 5 sprints, each having 4 weeks.
+Because we had multiple people leaving the project, we found ourselfs a bit lost, not sticking to the framework. However there were some sprints where our Scrum Master started each group project day with a daily stand-up which consists of everybody saying what is going to work on. The day ended with a stand-down on which we reflected on what was accoplished. Often our some of our group members left early which was an inconvienence because not always everyone was present.
+
+At the end of every sprint we had a session of presentation with our clients on which we presented the work results of our sprint and together with them we planned the deliverables for the next sprint. We also listen to their feedback and changed our application based on requests. Finally the day will with a sprint retrospective where we openly spoken about what went well, what we should change and what we must not do.
+
+
+The Agile tool that helped us develop our application is Azure Devops. In the second sprint we filled in the backlog(User Stories) that were decided with out product owner, and because our repositories were also there, it was easy for us to keep track which task and user stories where completed at every push. By using the sprint function we would assign every sprint a series of user stories that had to be completed, which helped us create burned down charts thus making it easier for Samuil to check how many hours were invested in that sprint. However not always this was the case due to the fact that not all of our team mates were using this function which made things a bit chaoting.
+
+<h5>Sprint Board</h5>
+
+<img src="">
+
+
+<h5>Burned-down chart</h5>
+
+<img src="">
+
+</p>
+
+
+
 <h2 align="center">SkillRent</h2>
 <h3>Project description</h3>
 <p>
@@ -310,41 +411,6 @@ The webiste is live right now on https://thankful-plant-0513f9a03.2.azurestatica
 </p>
 </div>
 
-<h3 id="CAwareness">Cultural Awareness</h3>  
-<hr>
-<h4>What is Cultural Awareness?</h4>
-<p>
-The definition of the word culture is a complex one and it refers to the characteristics and knowledge of a group of people, including social behaviors, norms, beliefs, arts, and customs.
-Culture helps distinguish one group of people from another as we are wired to attach different meanings and react to situations in different ways. This document is the product of my interest in on the subject of cultural awareness as it is an important subject in software engineering due to the fact that teams are comprised of members coming from different nationalities. The main goal is to understand the differences between my and my team-mates’ culture and how to better communicate and collaborate.
-</p>
-
-<h4>Why is it important</h4>
-<p>
-Having cultural awareness in a software development team can help to promote a more inclusive and respectful working environment, which can improve team dynamics and lead to more effective collaboration. It can also lead to more creative and innovative solutions, as different perspectives and experiences are brought to the table.
-</p>
-
-<h4>Cultural Awareness in group project</h4>
-
-<p>
-
-In this semester I had the opportunity to collaborate with individuals from The Netherlands and Bulgaria. In the below diagram, I have plotted the indexes for each country based on Hofstede’s 6 cultural dimensions. Because Romanian and Bulgarian cultures are alike, I have decided to focus on Romanian versus The Netherlands differences.
-
-</p>
-
-<img src="https://github.com/TudorRu/S3-portfolio/blob/0a7d1bf4238238a17ca18e3fd245ed4608116522/Images/hofstead.png" width="1100" height="650">
-  
-<p>
-When comparing Power Distance dimension, The Romanian score is quite high compared to the Dutch one and this can be seen when discussing with teachers, myself having a more formal approach, accepting hierarchical order , while Jan and Arnold, being more independent and their attitude towards our teachers being more direct and informal.
-The difference in Individualism comparison is quite high, which may cause problems if not being taken into account, the Dutch placing more emphasis on their own well-being and interests while Romanians being more interested in how others are doing, taking responsibility for fellow members of their group.
-The Masculinity index both for Dutch and Romanian society are on the lower spectrum, considered to be a Feminine societies, where we value equality, solidarity and then to care for the quality in our working life. This may be a plus for us because we tend to solve conflicts by compromise and trying to understand each other’s needs.
-Both of our cultures have high Uncertainty Avoidance scores, however Romanians tend to be more strict and are intolerant of unorthodox behavior, having difficulties adapting to new situations. The Dutch although having a more pragmatic nature, they are flexible and are willing to change depending on the situation.
-Although the Long-Term Orientation scores are high for both nationalities, I’ve seen a difference in the way we plan and manage problem solving. In the Netherlands they tend to try solving the issue in a more direct way, focusing on the direct objective, rather than thinking of all the consequences and implications that may follow. Both of these means having their pros and cons, in my opinion we complement quite well, bringing balance to the team.
-When it comes to Indulgence dimension, our cultures are more different, the Romanian one being of Restraint, where I have noticed that I have a tendency to cynicism and pessimism. In the Netherlands people tend to be enjoying life more and value their free time more. The Dutch optimism and the Romanian pessimism combination can be a beneficial both of them brining important insights to a certain situation and assessing it in a more real to the truth way. 
-</p>
-  
-<p>
-  For this semester I've decided to fully research on this matter and a deep-dive using DOT framework into this subject can be found <a href="https://github.com/TudorRu/S3-portfolio/blob/8b631f1f5427178031692091a8fd14238dad3cef/Research%20documents/Cultural%20awareness%20.docx">here</a>
-</p>
   
   
   
