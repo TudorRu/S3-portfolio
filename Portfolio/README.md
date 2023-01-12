@@ -312,6 +312,26 @@ The webiste is live right now on https://thankful-plant-0513f9a03.2.azurestatica
 
 <h3>Cultural Awareness</h3>  
 <hr>
+<h4>What is Cultural Awareness?</h4>
+<p>
+The definition of the word culture is a complex one and it refers to the characteristics and knowledge of a group of people, including social behaviors, norms, beliefs, arts, and customs.
+Culture helps distinguish one group of people from another as we are wired to attach different meanings and react to situations in different ways. This document is the product of my interest in on the subject of cultural awareness as it is an important subject in software engineering due to the fact that teams are comprised of members coming from different nationalities. The main goal is to understand the differences between my and my team-mates’ culture and how to better communicate and collaborate.
+</p>
+
+<h4>Why is it important</h4>
+<p>
+Having cultural awareness in a software development team can help to promote a more inclusive and respectful working environment, which can improve team dynamics and lead to more effective collaboration. It can also lead to more creative and innovative solutions, as different perspectives and experiences are brought to the table.
+</p>
+
+<h4>Cultural Awareness in group project</h4>
+
+<p>
+
+In this semester I had the opportunity to collaborate with individuals from The Netherlands and Bulgaria. In the below diagram, I have plotted the indexes for each country based on Hofstede’s 6 cultural dimensions. Because Romanian and Bulgarian cultures are alike, I have decided to focus on Romanian versus The Netherlands differences.
+
+</p>
+
+<img src="https://github.com/TudorRu/S3-portfolio/blob/f769cc90a1b48f6cb76467a6c2448a6c179aa307/Images/C2-individual.png" width="800" height="650">
   
   
   
