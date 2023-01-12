@@ -74,6 +74,7 @@ The goal of our class diagram is to think of every function of our application a
     
 <h3>Database design diagram</h3>
 <hr>    
+ 
 <img src="https://github.com/TudorRu/S3-portfolio/blob/512ab53a6d982fc62688bef93d79e9576439bbc5/Images/Database-diagram.png" width="800" height="550">
 
 <h3>Technologies</h3>
@@ -104,11 +105,13 @@ To make sure that the application we envisoned matches with the expectation of o
 <hr>
 <p>
   In order to showcase how the application will impact the business, I have created 2 business processes diagrams.
+</p>  
+
+<img src="https://github.com/TudorRu/S3-portfolio/blob/a8c60c239d64573353d1214ab5798b4722cff9ed/Images/business-without.png" width="1000" height="750">
   
-  Picture Without application
-  
-  Picture with application
-  
+<img src="https://github.com/TudorRu/S3-portfolio/blob/a8c60c239d64573353d1214ab5798b4722cff9ed/Images/business-with.png" width="1000" height="750">
+    
+<p>
   After analyzing the diagrams, we can conclude that a bottleneck can form when multiple tables want to order at the same time because one waiter will be assigned on a number of tables at the same time. This will ease the customer's ability to order and will speed up the whole process, improving the quality of service. Another issue that the application solves is the communication in kitchen and at the bar as well as between the waiters with kitchen and bar. When the products are ready to be delivered, the waiter will be notified automatically that the order is ready to be delivered.
 Also, if the guests want to order again, they don't have to call the waiter and issue the order, they can simply open a new order and launch it with ease.
 Finally when guests want to pay, they will simply do it by paying within the application, remove extra steps from the process.
