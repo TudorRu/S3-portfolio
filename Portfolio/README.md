@@ -237,7 +237,7 @@ Below you can see a screenshot will the pipelines I have instated for both front
 Further I will explore the yaml files for all the pipelines and explain them
 </p>
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/pipelines.png" width="400" height="200">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/pipelines.png" width="400" height="500">
     
 <h4>Test pipeline for back-end</h4>
 
@@ -261,13 +261,13 @@ report which will be analyzed in SonarCloud.
 
 <h5>Build docker image task</h5>
 
-<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/build-docker-task.png" width="400" height="200">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/build-docker-task.png" width="600" height="200">
 
 <p>The Docker@2 task will build a Docker image and it is going to be pushed to Azure Container Registry.</p>
 
 <h5>Deploy API</h5>  
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/deploy-deploy-task.png" width="400" height="200">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/deploy-deploy-task.png" width="600" height="200">
    
 <p>  
 The AzureWebAppContainer@1 will  deploy the image to Azure App Container, which in reality is URL from which the api can be used from any computer or application with internet connection.(https://skillrent-api.azurewebsites.net)
@@ -281,20 +281,20 @@ The AzureWebAppContainer@1 will  deploy the image to Azure App Container, which 
 This task will install Node.js version 18 so that further steps can run.
 </p>
 
-<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/test-script-task.png" width="300" height="200">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/test-script-task.png" width="500" height="200">
 
 <p>  
 The above script will install Node Package manager followed by running the unit tests and also generating the code coverage.
 </p>  
 
-<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/test-publish-task.png" width="500" height="300">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/test-publish-task.png" width="700" height="300">
 
 <p>
 This task with publish the generated code coverage results to Azure DevOps using Cobertura tool.
 </p>  
 <h4>Build and deploy front-end</h4>
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/deploy-frontend.png" width="400" height="200">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/deploy-frontend.png" width="600" height="500">
 
 <p>
 The above job will build my front-end application and deploy it using Azure Static Web Apps./n
