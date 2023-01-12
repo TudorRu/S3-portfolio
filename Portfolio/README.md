@@ -222,8 +222,6 @@ The Agile tool that helped us develop our application is Azure Devops. In the se
 
 </p>
 
-
-
 <h2 align="center">SkillRent</h2>
 <h3>Project description</h3>
 <p>
@@ -423,7 +421,23 @@ An example of this can be seen in below screenshot.
 </p>
 
 <img src="https://github.com/TudorRu/S3-portfolio/blob/8736e17e99a8e0537933028274c799795a08f83e/Images/feedpulse.png" width="1000" height="450">
+
+<h3 id="Ethics">Ethics</h3>
+<hr>
+
+<h4>Ethics in software engineering</h4>
+<p>
+Software engineering ethics is the study of moral principles and values that should guide the design and development of software. It is a branch of computer science ethics, which is concerned with the ethical issues related to the use of computers and technology.
   
+Responsibility is one of the main key principles of ethics and refers to the fact that software engineers have to be resposible when creating software, making sure that it is reliable, safe and secure. Professionalism indicates that software engineers should behave in a professional manner and uphold the values and standards of their profession. This includes being honest, transparent, and respectful of others. Another key principle is fairness which means that the software created must fair and unbiased and shouldn't not perpetuate or amplify existing inequalities. Last, developers should be open and transparent about the design and function of their software, any potential risk or limitation must be brought forward so that users can be aware of them.
+</p>
+  
+<h4>Resposibility in SkillRent</h4>
+<p>
+Although, I did not get the change to implement a login system, I have taken into account that users will be storing valuable informations regarding to their accounts, such as passwords and bank details. In order to prevent any sensitive information theft, I have considered to save bank accounts details and passwords only after hashing them by making use of SHA-256 algorithm. With this solution we will be making any text unreadble, rendering it useless to any attacks should succeed on our database.
+
+Another step that will secure our database that I have already taken is by not utilizing any raw SQL quaries when using Entity Framework in order to fetch or manipulate data. By using LINQ I have ensured that SQL Injection attacks will be prevented.  
+</p>
   
   
   
