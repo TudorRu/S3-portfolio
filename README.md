@@ -36,7 +36,7 @@
 </ul>
 <h3>7. Business processes - You can explain simple business processes and relate them to the development of your software project.</h3>
 <ul>
-  <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#BProcess">Unit testingBusiness process diagram</li>
+  <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#BProcess">Business process diagram</li>
 </ul>
 <h3>8. Professional - You act in a professional manner during software development and learning</h3>
 <ul>
