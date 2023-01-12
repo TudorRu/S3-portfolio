@@ -202,6 +202,7 @@ For database I am using Azure MYSQL database, and in order to create my tables i
 <p>
 Quality assurance is the term used in both manufacturing and service industries to describe the systematic efforts taken to ensure that the product delivered to customer meet with the contractual and other agreed upon performance, design, reliability, and maintainability expectations of that customer.
 </p>
+<div id="UTest">
 <h4>Testing</h4>
 <h5>Back-end</h5>
 <p>
@@ -231,7 +232,7 @@ Below you can see an example of such a report.
 <img src="https://github.com/TudorRu/S3-portfolio/blob/9a3f88a385723c7ea723094bfc8e3cd97461eb27/Images/cobertura.png" width="1000" height="500">
 
 </div>
-  
+</div>
 <div id="Pipeline">
 <h3>Continuous Integration and Continuous Deployment</h3>  
 <hr>
