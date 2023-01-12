@@ -243,7 +243,7 @@ Further I will explore the yaml files for all the pipelines and explain them
 
 <h5>Build Task</h5>
 
-<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/test-build-task.png" width="400" height="200">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/c4f167fd71998f709d89e10ecf3ba2909370dacd/Images/test-build-task.png" width="700" height="200">
   
 <p>
 This stage will test if my application will building without any errors with the correct build configuration.
