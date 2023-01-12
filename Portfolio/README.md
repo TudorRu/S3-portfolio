@@ -221,7 +221,8 @@ In order to achieve this, I've opted for Jest which is a popular JavaScript test
 Below you can see an example of such a report.
 </p>
 
-Picture with report
+<img src="https://github.com/TudorRu/S3-portfolio/blob/9a3f88a385723c7ea723094bfc8e3cd97461eb27/Images/cobertura.png" width="800" height="500">
+
 </div>
   
 <div id="Pipeline">
