@@ -31,6 +31,7 @@
   <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#UStories">User stories</li>
   <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#FRequirements">Functional Requirements</li>
   <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#C4">C4 diagrams</li>
+  <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#Database">Database Diagram</li>
   <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#UTesting">Unit testing</li>
 </ul>
 <h3>7. Business processes - You can explain simple business processes and relate them to the development of your software project.</h3>
