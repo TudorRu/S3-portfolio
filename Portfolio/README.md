@@ -343,7 +343,7 @@ When it comes to Indulgence dimension, our cultures are more different, the Roma
 </p>
   
 <p>
-  For this semester I've decided to fully research on this matter and a deep-dive into this subject can be found <a href="">here</a>
+  For this semester I've decided to fully research on this matter and a deep-dive using DOT framework into this subject can be found <a href="https://github.com/TudorRu/S3-portfolio/blob/8b631f1f5427178031692091a8fd14238dad3cef/Research%20documents/Cultural%20awareness%20.docx">here</a>
 </p>
   
   
