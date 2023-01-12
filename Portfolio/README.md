@@ -323,7 +323,7 @@ Culture helps distinguish one group of people from another as we are wired to at
 Having cultural awareness in a software development team can help to promote a more inclusive and respectful working environment, which can improve team dynamics and lead to more effective collaboration. It can also lead to more creative and innovative solutions, as different perspectives and experiences are brought to the table.
 </p>
 
-<h4>Cultural Awareness in group project</h4>
+<h4 id="CAwareness">Cultural Awareness in group project</h4>
 
 <p>
 
