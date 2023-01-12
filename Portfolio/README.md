@@ -331,7 +331,7 @@ In this semester I had the opportunity to collaborate with individuals from The 
 
 </p>
 
-<img src="https://github.com/TudorRu/S3-portfolio/blob/0a7d1bf4238238a17ca18e3fd245ed4608116522/Images/hofstead.png" width="800" height="650">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/0a7d1bf4238238a17ca18e3fd245ed4608116522/Images/hofstead.png" width="1100" height="650">
   
 <p>
 When comparing Power Distance dimension, The Romanian score is quite high compared to the Dutch one and this can be seen when discussing with teachers, myself having a more formal approach, accepting hierarchical order , while Jan and Arnold, being more independent and their attitude towards our teachers being more direct and informal.
