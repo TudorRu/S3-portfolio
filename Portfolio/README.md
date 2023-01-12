@@ -108,7 +108,7 @@ For the moment we didn't formulate a test plan nor made any tests for our applic
 <p>
 To make sure that the application we envisoned matches with the expectation of our clients we have created wireframes and prototypes of all the views of the application and we have presented them to our clients in our first 2 sprints. Based on their feedback we have tweeked the wireframes once again in order to get their approval for the final version of the application.
 </p>
-<h3>Business Process</h3>
+<h3 id="BProcess">Business Process</h3>
 <hr>
 <p>
   In order to showcase how the application will impact the business, I have created 2 business processes diagrams.
