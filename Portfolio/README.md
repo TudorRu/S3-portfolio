@@ -286,7 +286,7 @@ By considering the needs and preferences of users throughout the design process,
 inclusive for a wider range of people.
 </p> 
   
-<h4>Wireframes</h4>
+<h4 id="Wireframes">Wireframes</h4>
 
 <p>
 Idealy when you are creating wireframes, you would also like to get immediate feedback from your product owner, in order to change your designs to their preference and needs, however given the circumstances of the individual project, I had no product owner, so I had to change my original design based on my perception of UX.
