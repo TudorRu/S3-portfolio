@@ -1,6 +1,4 @@
 <h1 align="center">Individual and Group Project</h1>
-<h3>Table of content</h3>
-
 
 <h2 align="center">Catering application</h2>
 <h3>Project description</h3>
