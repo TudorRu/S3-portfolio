@@ -292,11 +292,14 @@ inclusive for a wider range of people.
 
 <p>
 Idealy when you are creating wireframes, you would also like to get immediate feedback from your product owner, in order to change your designs to their preference and needs, however given the circumstances of the individual project, I had no product owner, so I had to stick to my original design when developing the pages.
+  
+Some examples of the wireframes can be seen below.
 </p>
 
-<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/08125eab844343a84eb40247d981bd675073a52b/Images/Home%20screen.jpg" width="1000" height="600">
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/08125eab844343a84eb40247d981bd675073a52b/Images/My%20profile%20page.png" width="1000" height="600">
+
   
 <h4>Usability testing</h4>
   
