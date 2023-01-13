@@ -315,14 +315,14 @@ Although the testing was in person, I have decided to plot the resuls of some of
 
 <h5>Do you where the home button is?</h5>
 
-<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400"> 
+<img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/pie.png" width="800" height="400"> 
   
 As you can see from the results, everyone knew that home button is the logo picture from the navigation bar, and I feel this is because
 this is the norm when it comes to every other website out there and people got used to it.
 
 <h5>Do you know how to sign in?</h5>  
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/pie.png" width="800" height="400">
 
 <p>  
 It was not suprise to me that everone answered "yes" to this question because the button can be seen in the navigation bar bearing the same description text.
@@ -330,7 +330,7 @@ It was not suprise to me that everone answered "yes" to this question because th
   
 <h5>Do you know how to sign up?</h5>    
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">   
+<img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/pie.png" width="800" height="400">   
 
 <p>  
 Again, everyone knew where to click in order to sign up, although the text of the button is "Join", which is self-explanatory.
@@ -344,26 +344,26 @@ When asked this question, I have received 2 answers that I found very useful and
 First was that when click the "Browse" button and landing on the Browse Gigs page, it did not show exactly what gigs where showing and that made the users being confused.
 </p>
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/page-before.png" width="800" height="400">
 
 <p>  
 So in order to fix this issue, I have decided to add a breadcrumb bar, which indicates the Browse page category and sub-category.
 By default, I've decided to automatically select the first category and the first sub-category and showing all the gigs from there.
 </p>
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">  
+<img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/page-after.png" width="800" height="400">  
 
 <p>
 Second suggestion as related to the gigs card, the testers wanting to know, to whom it belongs that gig card.
 </p> 
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/card-before.png" width="500" height="500">
   
 <p>  
 To fix this, I've decided to add a picture icon followed by the username.
 </p>
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/card-after.png" width="500" height="500">
  
 <p>  
 Third complaint was again about the gig card, more precise, about not knowing what the asking prices is of the gig.
@@ -371,7 +371,13 @@ Third complaint was again about the gig card, more precise, about not knowing wh
 To tackle this issue I have added a footer to the card in which I'm displaying the starting price.
 </p>
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">  
+<img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/card-with%20price.png" width="800" height="400">
+  
+<h4>Conclusion</h4>
+  
+<p>
+I found conducting this test very useful as I felt reassured that some aspects of my website are working as a user would expect and also helped me improve it by positive changes to it's design.
+</p>
     
 <div id="fullStack">
 <h3>Technology</h3>
