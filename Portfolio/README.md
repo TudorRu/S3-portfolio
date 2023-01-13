@@ -276,6 +276,92 @@ so that I have full control of who’s going to join as an administrator.</h4>
 <h4>C2</h4>
 
 <img src="https://github.com/TudorRu/S3-portfolio/blob/f769cc90a1b48f6cb76467a6c2448a6c179aa307/Images/C2-individual.png" width="800" height="650">
+
+<h3>User friendly</h3>
+<hr>
+  
+<h4>Why is it important?</h4>
+<p>
+Every developer should make sure that their application is user-friendly because it can lead to increased customer satisfaction and loyalty.
+User experience is very important and it helps to ensure that a product or service is user-friendly, efficient, and enjoyable to use.
+by considering the needs and preferences of users throughout the design process, UX can help to create products and services that are more accessible and 
+inclusive for a wider range of people.
+</p> 
+  
+<h4>Wireframes</h4>
+
+<p>
+Idealy when you are creating wireframes, you would also like to get immediate feedback from your product owner, in order to change your designs to their preference and needs, however given the circumstances of the individual project, I had no product owner, so I had to stick to my original design when developing the pages.
+</p>
+
+<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
+  
+<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
+  
+<h4>Usability testing</h4>
+  
+<p>
+When it comes to usability testing that are multiple ways to conduct it, such as moderated or unmoderated, remote or in person and explorative or comparative. Having access to my colleagues daily at work and my close ones due to holidays at home, I've decided to go with in person testing. I did not want to test my website on my university colleagues because I was affraid they would view it from a programmers point of view, which it wasn't what I was looking for, my goal being to obtain a normal user's angle. 
+
+The plan was to let them navigate the whole website and then ask them a series of open-ended and close-ended questions in order to extract information on issues that I was taking into account and also them, providing them the oportunity to let me know what I needed to change in order to make the website user friendly. 
+  
+Although the testing was in person, I have decided to plot the resuls of some of the questions in order to better visualise the results   
+</p>
+  
+<h4>The questions</h4>
+
+<h5>Do you where the home button is?</h5>
+
+<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400"> 
+  
+As you can see from the results, everyone knew that home button is the logo picture from the navigation bar, and I feel this is because
+this is the norm when it comes to every other website out there and people got used to it.
+
+<h5>Do you know how to sign in?</h5>  
+  
+<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
+
+<p>  
+It was not suprise to me that everone answered "yes" to this question because the button can be seen in the navigation bar bearing the same description text.
+</p>
+  
+<h5>Do you know how to sign up?</h5>    
+  
+<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">   
+
+<p>  
+Again, everyone knew where to click in order to sign up, although the text of the button is "Join", which is self-explanatory.
+</p>
+  
+<h5>What would you like to improve when it comes to the website?<h5>
+
+<p>  
+When asked this question, I have received 2 answers that I found very useful and thought that by implementing them it would bring an upgrade to my website.
+  
+First was that when click the "Browse" button and landing on the Browse Gigs page, it did not show exactly what gigs where showing and that made the users being confused.
+
+<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
+  
+So in order to fix this issue, I have decided to add a breadcrumb bar, which indicates the Browse page category and sub-category.
+By default, I've decided to automatically select the first category and the first sub-category and showing all the gigs from there.
+
+<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">  
+
+Second suggestion as related to the gigs card, the testers wanting to know, to whom it belongs that gig card.
+  
+<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
+  
+To fix this, I've decided to add a picture icon followed by the username.
+
+<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
+  
+Third complaint was again about the gig card, more precise, about not knowing what the asking prices is of the gig.
+
+To tackle this issue I have added a footer to the card in which I'm displaying the starting price.
+
+<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">  
+  
+</p>  
   
 <div id="fullStack">
 <h3>Technology</h3>
