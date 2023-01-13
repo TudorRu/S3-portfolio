@@ -26,6 +26,7 @@
 <h3>6. Requirements and design - You translate (non-functional) requirements to extend existing (architectural) designs and can validate them using multiple types of test techniques.</h3>
 <ul>
   <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#UStories">User stories</li>
+  <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#Wireframes">Wireframes</li>
   <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#FRequirements">Functional Requirements</li>
   <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#C4">C4 diagrams</li>
   <li><a href="https://github.com/TudorRu/S3-portfolio/blob/main/Portfolio/README.md#Database">Database Diagram</li>
