@@ -294,9 +294,9 @@ Idealy when you are creating wireframes, you would also like to get immediate fe
 Some examples of the wireframes can be seen below.
 </p>
 
-<img src="https://github.com/TudorRu/S3-portfolio/blob/08125eab844343a84eb40247d981bd675073a52b/Images/Home%20screen.jpg" width="1000" height="600">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/08125eab844343a84eb40247d981bd675073a52b/Images/Home%20screen.jpg" width="700" height="600">
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/08125eab844343a84eb40247d981bd675073a52b/Images/My%20profile%20page.png" width="1000" height="600">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/08125eab844343a84eb40247d981bd675073a52b/Images/My%20profile%20page.png" width="700" height="600">
 
   
 <h4>Usability testing</h4>
@@ -369,7 +369,7 @@ Third complaint was again about the gig card, more precise, about not knowing wh
 To tackle this issue I have added a footer to the card in which I'm displaying the starting price.
 </p>
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/card-with%20price.png" width="800" height="400">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/card-with%20price.png" width="500" height="500">
   
 <h4>Conclusion</h4>
   
