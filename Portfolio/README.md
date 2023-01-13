@@ -339,30 +339,37 @@ Again, everyone knew where to click in order to sign up, although the text of th
 When asked this question, I have received 2 answers that I found very useful and thought that by implementing them it would bring an upgrade to my website.
   
 First was that when click the "Browse" button and landing on the Browse Gigs page, it did not show exactly what gigs where showing and that made the users being confused.
-
-<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
+</p>
   
+<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
+
+<p>  
 So in order to fix this issue, I have decided to add a breadcrumb bar, which indicates the Browse page category and sub-category.
 By default, I've decided to automatically select the first category and the first sub-category and showing all the gigs from there.
-
+</p>
+  
 <img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">  
 
+<p>
 Second suggestion as related to the gigs card, the testers wanting to know, to whom it belongs that gig card.
+</p> 
   
 <img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
   
+<p>  
 To fix this, I've decided to add a picture icon followed by the username.
-
-<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
+</p>
   
+<img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">
+ 
+<p>  
 Third complaint was again about the gig card, more precise, about not knowing what the asking prices is of the gig.
 
 To tackle this issue I have added a footer to the card in which I'm displaying the starting price.
-
+</p>
+  
 <img src="https://github.com/TudorRu/S3-portfolio/blob/89f66a28c9d0659780afd58e454c0e774d5a0c57/Images/Sonarcloud-before.png" width="800" height="400">  
-  
-</p>  
-  
+    
 <div id="fullStack">
 <h3>Technology</h3>
 <hr>
