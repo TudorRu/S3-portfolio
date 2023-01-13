@@ -282,14 +282,14 @@ so that I have full control of who’s going to join as an administrator.</h4>
 <p>
 Every developer should make sure that their application is user-friendly because it can lead to increased customer satisfaction and loyalty.
 User experience is very important and it helps to ensure that a product or service is user-friendly, efficient, and enjoyable to use.
-by considering the needs and preferences of users throughout the design process, UX can help to create products and services that are more accessible and 
+By considering the needs and preferences of users throughout the design process, UX can help to create products and services that are more accessible and 
 inclusive for a wider range of people.
 </p> 
   
 <h4>Wireframes</h4>
 
 <p>
-Idealy when you are creating wireframes, you would also like to get immediate feedback from your product owner, in order to change your designs to their preference and needs, however given the circumstances of the individual project, I had no product owner, so I had to stick to my original design when developing the pages.
+Idealy when you are creating wireframes, you would also like to get immediate feedback from your product owner, in order to change your designs to their preference and needs, however given the circumstances of the individual project, I had no product owner, so I had to change my original design based on my perception of UX.
   
 Some examples of the wireframes can be seen below.
 </p>
@@ -304,9 +304,9 @@ Some examples of the wireframes can be seen below.
 <p>
 When it comes to usability testing that are multiple ways to conduct it, such as moderated or unmoderated, remote or in person and explorative or comparative. Having access to my colleagues daily at work and my close ones due to holidays at home, I've decided to go with in person testing. I did not want to test my website on my university colleagues because I was affraid they would view it from a programmers point of view, which it wasn't what I was looking for, my goal being to obtain a normal user's angle. 
 
-The plan was to let them navigate the whole website and then ask them a series of open-ended and close-ended questions in order to extract information on issues that I was taking into account and also them, providing them the oportunity to let me know what I needed to change in order to make the website user friendly. 
+The plan was to let them navigate the whole website and then ask them a series of open-ended and close-ended questions in order to extract information on issues that I was taking into account and also providing them the oportunity to make me aware of what needed to be changed in order to make the website user friendly. 
   
-Although the testing was in person, I have decided to plot the resuls of some of the questions in order to better visualise the results   
+Although the testing was in person, I have decided to plot the resuls of some of the questions in order to better visualize the results.   
 </p>
   
 <h4>The questions</h4>
@@ -316,7 +316,7 @@ Although the testing was in person, I have decided to plot the resuls of some of
 <img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/pie.png" width="500" height="400"> 
   
 As you can see from the results, everyone knew that home button is the logo picture from the navigation bar, and I feel this is because
-this is the norm when it comes to every other website out there and people got used to it.
+this is the norm when it comes to every other website out there.
 
 <h5>Do you know how to sign in?</h5>  
   
@@ -331,13 +331,13 @@ It was not suprise to me that everone answered "yes" to this question because th
 <img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/pie.png" width="500" height="400">   
 
 <p>  
-Again, everyone knew where to click in order to sign up, although the text of the button is "Join", which is self-explanatory.
+Again, everyone knew where to click in order to sign up, although the text of the button is "Join".
 </p>
   
 <h5>What would you like to improve when it comes to the website?<h5>
 
 <p>  
-When asked this question, I have received 2 answers that I found very useful and thought that by implementing them it would bring an upgrade to my website.
+When asked this question, I have received 3 observations that I found very useful and thought that by implementing them it would bring an upgrade to my website.
   
 First was that when click the "Browse" button and landing on the Browse Gigs page, it did not show exactly what gigs where showing and that made the users being confused.
 </p>
