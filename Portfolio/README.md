@@ -275,7 +275,7 @@ so that I have full control of who’s going to join as an administrator.</h4>
 
 <img src="https://github.com/TudorRu/S3-portfolio/blob/f769cc90a1b48f6cb76467a6c2448a6c179aa307/Images/C2-individual.png" width="800" height="650">
 
-<h3>User friendly</h3>
+<h3 id="UFriendly">User friendly</h3>
 <hr>
   
 <h4>Why is it important?</h4>
@@ -313,14 +313,14 @@ Although the testing was in person, I have decided to plot the resuls of some of
 
 <h5>Do you where the home button is?</h5>
 
-<img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/pie.png" width="800" height="400"> 
+<img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/pie.png" width="500" height="400"> 
   
 As you can see from the results, everyone knew that home button is the logo picture from the navigation bar, and I feel this is because
 this is the norm when it comes to every other website out there and people got used to it.
 
 <h5>Do you know how to sign in?</h5>  
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/pie.png" width="800" height="400">
+<img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/pie.png" width="500" height="400">
 
 <p>  
 It was not suprise to me that everone answered "yes" to this question because the button can be seen in the navigation bar bearing the same description text.
@@ -328,7 +328,7 @@ It was not suprise to me that everone answered "yes" to this question because th
   
 <h5>Do you know how to sign up?</h5>    
   
-<img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/pie.png" width="800" height="400">   
+<img src="https://github.com/TudorRu/S3-portfolio/blob/b03e4f0aa0ae21527b933015b11492b82521c5c7/Images/pie.png" width="500" height="400">   
 
 <p>  
 Again, everyone knew where to click in order to sign up, although the text of the button is "Join", which is self-explanatory.
